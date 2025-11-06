@@ -1,3 +1,9 @@
+**Forked**
+
+This is my fork of littlelink customized for my own use. Original readme below.
+
+-------------------------------
+
 ![Logo](https://cdn.cottle.cloud/GitHub/LittleLink/littlelink.gif)
 
 # LittleLink
